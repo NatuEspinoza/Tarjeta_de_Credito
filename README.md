@@ -18,6 +18,6 @@
 
 
 ### Diagrama de flujo
-![Cifrado Cesar](https://ibb.co/fRbJJw) 
+[Tarjeta de crédito](https://ibb.co/fRbJJw)
 
 #### Este archivo es la versión `0.0.1`
